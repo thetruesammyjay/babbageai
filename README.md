@@ -1,9 +1,5 @@
 
 ---
-
-
-
-```markdown
 # BabbageAI
 
 **BabbageAI** is an AI-powered educational web application designed to help university students study more efficiently. It allows students to upload documents (PDFs/DOCX), input YouTube video URLs, or scan question papers to get AI-generated answers based on the content.
