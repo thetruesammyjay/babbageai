@@ -64,3 +64,13 @@
     ```
 5. **Open in Browser**:
 - Visit http://localhost:3000 in your browser.
+
+### Contributing
+- Contributions are welcome! Please open an issue or submit a pull request.
+
+### License
+- This project is licensed under the MIT License.
+
+### Contact Me
+- thetruesammyjay@gmail.com
+- x.com/thatbwoysammyj
